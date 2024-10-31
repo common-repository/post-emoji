@@ -1,0 +1,22 @@
+{
+  "css/admin.css": "/css/admin.css",
+  "css/main.css": "/css/main.css",
+  "js/admin.js": "/js/admin.js",
+  "js/main.js": "/js/main.js",
+  "audio/farting-1.mp3": "/./audio/farting-1.mp3",
+  "audio/farting-10.mp3": "/./audio/farting-10.mp3",
+  "audio/farting-2.mp3": "/./audio/farting-2.mp3",
+  "audio/farting-3.mp3": "/./audio/farting-3.mp3",
+  "audio/farting-4.mp3": "/./audio/farting-4.mp3",
+  "audio/farting-5.mp3": "/./audio/farting-5.mp3",
+  "audio/farting-6.mp3": "/./audio/farting-6.mp3",
+  "audio/farting-7.mp3": "/./audio/farting-7.mp3",
+  "audio/farting-8.mp3": "/./audio/farting-8.mp3",
+  "audio/farting-9.mp3": "/./audio/farting-9.mp3",
+  "img/cool.svg": "/./img/cool.svg",
+  "img/good.svg": "/./img/good.svg",
+  "img/happy.svg": "/./img/happy.svg",
+  "img/nerd.svg": "/./img/nerd.svg",
+  "img/poop.svg": "/./img/poop.svg",
+  "img/sad.svg": "/./img/sad.svg"
+}
